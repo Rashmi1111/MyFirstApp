@@ -1,0 +1,2 @@
+include ':MyFirstApp'
+include ':appcompat_v7'
