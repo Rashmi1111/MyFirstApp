@@ -1,2 +1,2 @@
-C:\Workspace\MyFirstApp\bin\AndroidManifest.xml : \
-C:\Workspace\MyFirstApp\AndroidManifest.xml \
+C:\Users\rashmi.c.kumari\git\MyFirstApp\MyFirstApp\bin\AndroidManifest.xml : \
+C:\Users\rashmi.c.kumari\git\MyFirstApp\MyFirstApp\AndroidManifest.xml \
